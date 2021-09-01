@@ -1,14 +1,14 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *Andreayt* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
    ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
-
+   ○ Modificado por: Andreayt
+   
+*CREDITOS A MI AMIGO SHANDUY*
 
 ◉ *NUEVOS COMANDOS*
 ○ ${prefix}banmenu
